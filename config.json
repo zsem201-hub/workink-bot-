@@ -1,0 +1,12 @@
+{
+  "token": "MTQ1MTQ2NzIzOTMwMjYzMTU0OA.G2Q",
+  "clientId": "1451467239302631548",
+  "guildId": "1445042143407243397",
+  "adminRoleId": "1451468291649306635",
+  
+  "workink": {
+    "apiKey": "c87dbbe7-d049-483b-919e-7d678efd1ad7",
+    "validationUrl": "https://work.ink/29pu/validation",
+    "keySystemUrl": "https://work.ink/29pu/key-sistem-3"
+  }
+}
